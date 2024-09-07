@@ -1,7 +1,7 @@
 
 <div >
 <p align="center">💫 About Me 💫</p>
-<p align="center">🔭 I’m currently working on OCW<br>🌱 I’m currently try hard front-end⚡</p>
+<p align="center">🔭 I’m currently working on OCW 💰<br>🌱 I’m currently try hard front-end⚡</p>
 </div>
 <div id="header" align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgTRSL_28tP9A10tjviBjljGthdFgVk7zww&s" width="400"/>
