@@ -1,6 +1,6 @@
 
 <div >
-<p align="center">💫 About Me:</p>
+<p align="center">💫 About Me 💫</p>
 <p align="center">🔭 I’m currently working on OCW<br>🌱 I’m currently try hard front-end<br>⚡</p>
 </div>
 <div id="header" align="center">
