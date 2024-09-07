@@ -3,7 +3,7 @@
 <h1 align="center" >💫 About Me 💫</h1>
 <p align="center">🔭 I’m currently working on OCW 💰<br>🌱 I’m currently trying hard at front-end development ⚡</p>
 </div>
-  <img align="center"  src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" />
+  <p align="center"><img src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" /></p>
 </div>
 
 <h1 align="center"> 💻 Tech Stack 💻 </h1>
