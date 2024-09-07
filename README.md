@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on OCW<br>🌱 I’m currently try hard front-end<br>⚡
+\t\t\t# 💫 About Me:
+\t\t\t🔭 I’m currently working on OCW<br>🌱 I’m currently try hard front-end<br>⚡
 
 <div id="header" align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgTRSL_28tP9A10tjviBjljGthdFgVk7zww&s" width="400"/>
