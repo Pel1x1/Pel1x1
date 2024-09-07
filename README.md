@@ -1,9 +1,9 @@
 
-<div align="center">
+<div >
 <h1 align="center" >💫 About Me 💫</h1>
 <p align="center">🔭 I’m currently working on OCW 💰<br>🌱 I’m currently trying hard at front-end development ⚡</p>
 </div>
-  <img  src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" />
+  <img align="center"  src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" />
 </div>
 
 <h1 align="center"> 💻 Tech Stack 💻 </h1>
