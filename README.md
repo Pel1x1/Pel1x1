@@ -4,7 +4,7 @@
 <p align="center">🔭 I’m currently working on OCW 💰<br>🌱 I’m currently trying hard at front-end development ⚡</p>
 </div>
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgTRSL_28tP9A10tjviBjljGthdFgVk7zww&s" width="500"/>
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgTRSL_28tP9A10tjviBjljGthdFgVk7zww&s](https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif)" width="500"/>
 </div>
 
 <h1 align="center"> 💻 Tech Stack 💻 </h1>
