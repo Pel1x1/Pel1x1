@@ -3,11 +3,7 @@
 <h1 align="center" >💫 About Me 💫</h1>
 <p align="center">🔭 I’m currently working on OCW 💰<br>🌱 I’m currently trying hard at front-end development ⚡</p>
 </div>
-
-<div class="tenor-gif-embed" data-postid="7365994654366633612" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-programming-ready-python-javascript-gif-7365994654366633612">Coding Programming GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<div id="header" align="center">
-  
-  <img src="https://tenor.com/view/coding-programming-ready-python-javascript-gif-7365994654366633612" width="500"/>
+  <img src="https://tenor.com/ru/view/coding-programming-ready-python-javascript-gif-7365994654366633612" width="500"/>
 </div>
 
 <h1 align="center"> 💻 Tech Stack 💻 </h1>
