@@ -1,19 +1,7 @@
-<style>
-        body, html {
-            height: 100%;
-            margin: 0;
-        }
-        .parent {
-            display: flex;
-            justify-content: center; /* Центрирование по горизонтали */
-            align-items: center; /* Центрирование по вертикали */
-            height: 100vh; /* Высота 100% от высоты окна */
-            background-color: #f0f0f0; /* Цвет фона для наглядности */
-        }
-    </style>
-<div class="parent">
-# 💫 About Me:
-🔭 I’m currently working on OCW<br>🌱 I’m currently try hard front-end<br>⚡
+
+<div >
+<p align="center">💫 About Me:</p>
+<p align="center">🔭 I’m currently working on OCW<br>🌱 I’m currently try hard front-end<br>⚡</p>
 </div>
 <div id="header" align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgTRSL_28tP9A10tjviBjljGthdFgVk7zww&s" width="400"/>
