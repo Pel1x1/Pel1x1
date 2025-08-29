@@ -1,7 +1,7 @@
 
 <div >
 <h1 align="center" >💫 About Me 💫</h1>
-<p align="center">🔭 I’m currently working on OCW 💰<br>🌱 I’m currently trying hard at front-end development ⚡</p>
+<p align="center">🔭 I’m currently working as a full stack freelancer specializing in Next.js ⚡</p>
 </div>
   <p align="center"><img src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" /></p>
 </div>
