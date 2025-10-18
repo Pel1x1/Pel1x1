@@ -1,6 +1,6 @@
 
 <div >
-<h1 align="center" > <a href="https://pel1x1.ru"> K & K </a></h1>
+<h1 align="center" > <a href="https://pel1x1.ru" color="white"> K & K </a></h1>
 <p align="center">Создаю Web решения для бизнеса.</p>
 
 
