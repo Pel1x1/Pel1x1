@@ -7,7 +7,7 @@
               font-bold text-card-foreground mb-2">
             K <span className="text-xl">&</span> K
           </h1>
-<p align="center">Web решения для бизнеса.</p>
+<p align="center">Создаю Web решения для бизнеса.</p>
 
 
 <h1 align="center"> 💻 Tech Stack 💻 </h1>
