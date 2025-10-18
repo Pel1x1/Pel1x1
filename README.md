@@ -1,10 +1,8 @@
 
 <div >
 <p><a align="center" href="https://www.pel1x1.ru/">K & K</a></p>
-<p align="center">🔭 I’m currently working as a full stack freelancer specializing in Next.js ⚡</p>
-</div>
-  <p align="center"><img src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" /></p>
-</div>
+<p align="center">Web решения для бизнеса.</p>
+
 
 <h1 align="center"> 💻 Tech Stack 💻 </h1>
 
