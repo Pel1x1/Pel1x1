@@ -1,10 +1,10 @@
 
 <div >
-<h2 align="center"> K & K</h2>
+<h1 align="center"> K & K</h1>
 <p align="center">Создаю Web решения для бизнеса.</p>
 
 
-<h1 align="center"> 💻 Tech Stack 💻 </h1>
+<h2 align="center">  Tech Stack  </h2>
 
 <p align="center">|▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|</p>
 
