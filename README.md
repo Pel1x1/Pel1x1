@@ -1,6 +1,6 @@
 
 <div >
-<h1 align="center"> K & K</h1>
+<h2 align="center"> K & K</h2>
 <p align="center">Создаю Web решения для бизнеса.</p>
 
 
