@@ -1,12 +1,6 @@
 
 <div >
-<h1 
-            className="text-2xl
-              sm:text-3xl
-              md:text-4xl
-              font-bold text-card-foreground mb-2">
-            K <span className="text-xl">&</span> K
-          </h1>
+<h1 >K <span font-size="10px">&</span> K</h1>
 <p align="center">Создаю Web решения для бизнеса.</p>
 
 
