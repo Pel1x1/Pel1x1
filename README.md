@@ -1,6 +1,6 @@
 
 <div >
-<h1 align="center" >💫 About Me 💫</h1>
+<a align="center" href="https://www.pel1x1.ru/">K & K</a>
 <p align="center">🔭 I’m currently working as a full stack freelancer specializing in Next.js ⚡</p>
 </div>
   <p align="center"><img src = "https://media1.tenor.com/m/ZjlFHIbzDowAAAAC/coding-programming.gif" width="500" /></p>
