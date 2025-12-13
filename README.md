@@ -9,9 +9,10 @@
   <a href="https://pel1x1.ru" style="color: white; text-decoration: none;">
     https://pel1x1.ru
   </a>
-</h1
-<p align="center">Создаю Web решения для бизнеса.</p>
-
+</h1>
+<h1 align="center">
+  <p align="center">Создаю Web решения для бизнеса.</p>
+</h1>
 
 <h2 align="center">  Tech Stack  </h2>
 
