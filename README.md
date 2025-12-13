@@ -1,10 +1,7 @@
 
 <div >
-<h1 align="center">
-  <a href="https://pel1x1.ru" style="color: white; text-decoration: none;">
-    K <span style="font-size: 10px;">&amp;</span> K
-  </a>
-</h1>
+# [K & K](https://pel1x1.ru)
+
 <p align="center">Создаю Web решения для бизнеса.</p>
 
 
