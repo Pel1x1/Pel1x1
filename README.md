@@ -1,8 +1,8 @@
 
 <div >
 <h1 align="center">
-  <a href="https://pel1x1.ru" style="color: white; text-decoration: none;">
-    pel1x1.ru
+  <a href="https://pel1x.vercel.app" style="color: white; text-decoration: none;">
+    pel1x1.vercel.app
   </a>
 </h1>
 <h1 align="center">
